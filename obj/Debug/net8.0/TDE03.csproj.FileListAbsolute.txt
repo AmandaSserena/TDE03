@@ -1,0 +1,14 @@
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\TDE03\bin\Debug\net8.0\TDE03.exe
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\TDE03\bin\Debug\net8.0\TDE03.deps.json
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\TDE03\bin\Debug\net8.0\TDE03.runtimeconfig.json
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\TDE03\bin\Debug\net8.0\TDE03.dll
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\TDE03\bin\Debug\net8.0\TDE03.pdb
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\TDE03\obj\Debug\net8.0\TDE03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\TDE03\obj\Debug\net8.0\TDE03.AssemblyInfoInputs.cache
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\TDE03\obj\Debug\net8.0\TDE03.AssemblyInfo.cs
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\TDE03\obj\Debug\net8.0\TDE03.csproj.CoreCompileInputs.cache
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\TDE03\obj\Debug\net8.0\TDE03.dll
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\TDE03\obj\Debug\net8.0\refint\TDE03.dll
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\TDE03\obj\Debug\net8.0\TDE03.pdb
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\TDE03\obj\Debug\net8.0\TDE03.genruntimeconfig.cache
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\TDE03\obj\Debug\net8.0\ref\TDE03.dll
